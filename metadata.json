@@ -1,0 +1,6 @@
+{
+  "name": "Absensi",
+  "description": "Aplikasi absensi digital karyawan PT. RAZMI MINORI SEJAHTERA dengan pemindaian wajah, validasi radius GPS, perhitungan jam kerja & lembur otomatis, serta ekspor laporan Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
